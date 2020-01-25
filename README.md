@@ -12,11 +12,11 @@ Users can also leave comments on events.
 * [git](https://git-scm.com/downloads)
 * [Node.Js](https://nodejs.org/en/)
 
-### Clone the project to a local directory
+### Cloning the project to a local directory
 
 1. Open the command line and navigate to the path where the poject should go.
 ```bash
-cd ...
+cd <path>
 ```
 
 2. type the following:
@@ -58,6 +58,7 @@ After that the server is startet and you can navigate in a browser of your choic
 
 ### Issue#1:
 Error 403 when trying to register a user.
+
 Solution/Workaround: delete the cookies
 
 ## Contributors
