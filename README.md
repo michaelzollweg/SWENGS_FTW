@@ -2,7 +2,8 @@
 
 
 ## Purpose
-
+FTW is a program to plan events with friends and strangers. Registered users are able to create events. These events can be seen by other users. The creator of the event can make the event visible to everyone or only to friends.
+Users can also leave comments on events.
 
 
 ## Setup Guide
