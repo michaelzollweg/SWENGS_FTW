@@ -10,6 +10,7 @@ Users can also leave comments on events.
 
 ### prequisites
 * [git](https://git-scm.com/downloads)
+* [python](https://www.python.org/downloads/)
 * [Node.Js](https://nodejs.org/en/)
 
 ### Cloning the project to a local directory
