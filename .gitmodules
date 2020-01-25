@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MasterofBisaster/SWENGS_FTW_Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MasterofBisaster/SWENGS_FTW_Frontend.git
